@@ -1,6 +1,4 @@
 # MACFE-Firmware-2026
- # MACFE-Firmware-2026
-
 A simple program that prints "Hello World" to the console.
 
 ## How to run
